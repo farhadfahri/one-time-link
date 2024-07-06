@@ -5,11 +5,11 @@ Enables to create one time link.
 
 ## Installation
 
-1. 
+1. Creates .env file
 ```bash
 $ cp .env.example .env
 ```
-2. 
+2. Dependencies install
 ```bash
 $ npm install
 ```
